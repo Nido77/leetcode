@@ -1,0 +1,5 @@
+remark
+*.o
+*.out
+*.exe
+two/
